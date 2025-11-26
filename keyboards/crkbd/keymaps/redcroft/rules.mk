@@ -1,0 +1,10 @@
+MOUSEKEY_ENABLE   = no
+RGBLIGHT_ENABLE   = no
+RGB_MATRIX_ENABLE = yes
+OLED_ENABLE       = no
+LTO_ENABLE        = yes
+CONVERT_TO        = kb2040
+SERIAL_DRIVER     = vendor
+VIA_ENABLE        = yes
+VIAL_ENABLE       = yes
+VIALRGB_ENABLE    = yes
